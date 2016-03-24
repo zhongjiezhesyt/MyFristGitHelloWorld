@@ -1,6 +1,7 @@
 TestClass = class()
 
 
+
 function TestClass:ctor()
 	prite("ctor")
 end
@@ -8,4 +9,10 @@ end
 
 function TestClass:FeatureA()
 	prite("a")
+	
+end
+
+function TestClass:Fix()
+	print("B")
+
 end
