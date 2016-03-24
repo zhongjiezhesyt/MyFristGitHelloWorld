@@ -16,3 +16,7 @@ function TestClass:Fix()
 	print("B")
 
 end
+
+function TestClass:C()
+	print("C")
+end
