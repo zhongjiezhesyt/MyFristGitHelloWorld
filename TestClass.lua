@@ -20,3 +20,8 @@ end
 function TestClass:C()
 	print("C")
 end
+
+
+function TestClass:D()
+	print("D")
+end
