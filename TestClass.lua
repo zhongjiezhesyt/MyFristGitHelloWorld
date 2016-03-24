@@ -20,3 +20,5 @@ end
 function TestClass:C()
 	print("C")
 end
+
+--this do on web
